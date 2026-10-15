@@ -1,0 +1,64 @@
+# NOVAMART RETAIL
+## Business Insights & Recommendations
+
+### 1. Project Summary
+
+This project analyzes 2,707 retail sales records to evaluate revenue, gross profit, product performance, regional sales, sales channels, and monthly trends using Microsoft Excel.
+
+### 2. Key Performance Indicators (KPIs)
+
+| KPI | Result |
+|---|---:|
+| Total Revenue | €645,223.18 |
+| Total Gross Profit | €296,384.25 |
+| Gross Profit Margin | 45.94% |
+| Total Units Sold | 6,698 |
+| Total Sales Records | 2,707 |
+
+### 3. Key Business Insights
+
+**Insight 1: Regional Performance**
+
+Western Europe generated the highest revenue, approximately €198,040.42.
+
+**Business Implication:** Western Europe is an important revenue-generating region. Management should investigate which products and countries contribute most to its performance and evaluate opportunities in other regions.
+
+**Insight 2: Sales Channel Performance**
+
+The Online Store generated approximately €260,307.06 in revenue, making it the leading sales channel by revenue.
+
+**Business Implication:** Management should evaluate online sales trends, customer purchasing behavior, and channel profitability to identify opportunities for further growth.
+
+**Insight 3: Product Category Performance**
+
+The Camping category generated approximately €198,505.13 in revenue, the highest among the product categories.
+
+**Business Implication:** Management should analyze the gross profit and demand for Camping products to identify the products contributing most to business performance.
+
+**Insight 4: Monthly Sales Trends**
+
+June recorded the highest monthly revenue at approximately €69,504, while February recorded the lowest at approximately €35,648.
+
+**Business Implication:** Management should investigate seasonal demand, product mix, and promotional activities to understand the differences in monthly performance.
+
+**Insight 5: Overall Profitability**
+
+The business generated approximately €296,384.25 in gross profit with a gross profit margin of 45.94%.
+
+**Business Implication:** Management should monitor gross profit margins across regions, products, and sales channels to identify segments where profitability may be improved.
+
+### 4. Business Recommendations
+
+1. **Improve Regional Performance:** Compare revenue and gross profit across regions to identify opportunities for growth.
+2. **Optimize Online Sales:** Evaluate the Online Store's profitability, customer segments, and product mix.
+3. **Review Product Performance:** Identify products with strong revenue and healthy gross margins.
+4. **Analyze Monthly Trends:** Investigate the reasons behind monthly revenue fluctuations before making seasonal decisions.
+5. **Monitor Profitability:** Track gross profit margin and discount levels across business segments.
+
+### 5. Conclusion
+
+The analysis highlights Western Europe, the Online Store, and the Camping category as leading revenue contributors. June recorded the highest monthly revenue, while February recorded the lowest.
+
+These findings provide a starting point for further investigation into sales growth and profitability. Management should validate the underlying drivers using detailed product, regional, channel, and margin analysis before making business decisions.
+
+**Tools Used:** Microsoft Excel, Excel Formulas, Pivot Tables, Pivot Charts, Slicers, and Interactive Dashboard Design.
