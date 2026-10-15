@@ -24,7 +24,8 @@ The goal of this project is to transform raw sales data into meaningful business
 
 ## Dashboard Preview
 
-![NovaMart Sales Dashboard](images/dashboard_preview.png)
+![NovaMart Sales Dashboard](<img width="1148" height="637" alt="NovaMart_Sales_Dashboards" src="https://github.com/user-attachments/assets/f587eba6-4e43-452a-80d0-c3c368f8bd0d" />
+)
 
 ## Dataset Description
 
