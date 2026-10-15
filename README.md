@@ -22,6 +22,10 @@ The goal of this project is to transform raw sales data into meaningful business
 - Understand monthly revenue and profitability trends.
 - Develop an interactive dashboard for business reporting.
 
+## Dashboard Preview
+
+![NovaMart Sales Dashboard](images/dashboard_preview.png)
+
 ## Dataset Description
 
 The dataset contains retail sales records with information about order dates, geographical regions, countries, sales channels, customer types, product categories, products, units sold, unit prices, discounts, unit costs, revenue, cost of goods sold, and gross profit.
